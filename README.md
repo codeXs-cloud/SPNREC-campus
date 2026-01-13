@@ -1,10 +1,11 @@
 # 🎓 Smart Campus - SPNREC Digital Campus System
  
 > **Bridging the gap between Students and Administration with transparency and efficiency.**
-> live on render :- (https://spnrec-campus.onrender.com)
 
 ![Project Status](https://img.shields.io/badge/Status-Live-success)
 ![Tech Stack](https://img.shields.io/badge/Stack-MERN-blue)
+
+live on render :- (https://spnrec-campus.onrender.com)
 
 **Smart Campus** is a real-time web application designed to digitize campus interactions. It replaces outdated notice boards and manual complaint registers with a centralized digital platform. Whether it's tracking lost items, raising hostel issues, or broadcasting official announcements, Smart Campus handles it all.
 
