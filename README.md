@@ -11,7 +11,7 @@
 
 ## 🔗 Live Demo
 🚀 **[Click here to view the Live Website](https://spnrec-campus.onrender.com)**
-*(Replace the link above with your actual Render URL)*
+
 
 ---
 
