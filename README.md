@@ -3,7 +3,7 @@
 > **Bridging the gap between Students and Administration with transparency and efficiency.**
 
 ![Project Status](https://img.shields.io/badge/Status-Live-success)
-![Tech Stack](https://img.shields.io/badge/Stack-MERN-blue)
+
 
 live on render :- (https://spnrec-campus.onrender.com)
 
