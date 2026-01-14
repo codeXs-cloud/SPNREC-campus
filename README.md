@@ -5,14 +5,12 @@
 ![Project Status](https://img.shields.io/badge/Status-Live-success)
 
 
-live on render :- (https://spnrec-campus.onrender.com)
-
 **Smart Campus** is a real-time web application designed to digitize campus interactions. It replaces outdated notice boards and manual complaint registers with a centralized digital platform. Whether it's tracking lost items, raising hostel issues, or broadcasting official announcements, Smart Campus handles it all.
 
 ---
 
 ## 🔗 Live Demo
-🚀 **[Click here to view the Live Website](https://your-render-app-name.onrender.com)**
+🚀 **[Click here to view the Live Website](https://spnrec-campus.onrender.com)**
 *(Replace the link above with your actual Render URL)*
 
 ---
